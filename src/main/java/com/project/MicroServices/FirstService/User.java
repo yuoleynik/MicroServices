@@ -1,4 +1,4 @@
-package com.project.MicroServices;
+package com.project.MicroServices.FirstService;
 
 class User {
     private String username;

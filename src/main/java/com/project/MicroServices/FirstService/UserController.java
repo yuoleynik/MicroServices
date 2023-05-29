@@ -1,4 +1,4 @@
-package com.project.MicroServices;
+package com.project.MicroServices.FirstService;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
